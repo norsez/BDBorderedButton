@@ -12,13 +12,14 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "Flat iOS button with borders."
   s.description      = <<-DESC
-                      Everybody
+                      Everybody loves flat design. But sometimes buttons need to have borders.
+                      BDBorderedButton provides borders to iOS flat button.
                         DESC
   s.homepage         = "https://github.com/norsez/BDBorderedButton"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Norsez Orankijanan" => "norsez@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/BDBorderedButton.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/norsez/BDBorderedButton.git", :tag => 1.0.0 }
   # s.social_media_url = 'https://twitter.com/norsez'
 
   s.platform     = :ios, '7.0'
