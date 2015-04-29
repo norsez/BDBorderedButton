@@ -31,7 +31,7 @@ pod "BDBorderedButton"
 
 ## Author
 
-Norsez Orankijanan, norsez@gmail.com
+Norsez Orankijanan, http://about.me/norsez
 
 ## License
 
