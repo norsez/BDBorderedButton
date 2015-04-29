@@ -30,7 +30,8 @@
 {
   self = [super initWithFrame:frame];
   if (self) {
-    
+    [self setTitle:@"Button" forState:UIControlStateNormal];
+    [self initStyle];
   }
   return self;
 }
@@ -43,6 +44,7 @@
   self.layer.borderColor = [[UIColor colorWithHue:hue saturation:saturation brightness:(brightness*0.80) alpha:1] CGColor];
   self.layer.borderWidth = 0.75;
   self.layer.cornerRadius = 4;
+  [self setTitleColor:[self tintColor] forState:UIControlStateNormal];
 }
 
 

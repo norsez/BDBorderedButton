@@ -7,23 +7,28 @@
 //
 
 #import "BDViewController.h"
-
+#import <BDBorderedButton/BDBorderedButton.h>
 @interface BDViewController ()
-
+{
+  BDBorderedButton *_button;
+}
+@property (weak, nonatomic) IBOutlet BDBorderedButton *sampleButton;
 @end
 
 @implementation BDViewController
 
 - (void)viewDidLoad
 {
-    [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+  [super viewDidLoad];
+  _button = [[BDBorderedButton alloc] initWithFrame:CGRectOffset(self.sampleButton.frame, 0, 100)];
+  [_button setTitle:@"Hello. Look at me." forState:UIControlStateNormal];
+  [self.view addSubview:_button];
 }
 
-- (void)didReceiveMemoryWarning
+- (IBAction)didPressSampleButton:(id)sender
 {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+  
+  _button.tintColor = [UIColor colorWithHue:(arc4random_uniform(24)/ 24.f) saturation:1 brightness:0.9 alpha:1];
+  
 }
-
 @end
