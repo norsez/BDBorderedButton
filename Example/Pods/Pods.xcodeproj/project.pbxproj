@@ -7,132 +7,132 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		11B64A7638555E81E16A112A /* BDBorderedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A7D6E24E1D6A4DFDC2B03D9 /* BDBorderedButton.h */; };
-		3667CEEC7A8A77FF9401E23C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45BDCD0C5B2E5F40FB681B49 /* Foundation.framework */; };
-		49FA9C0A04AD9940C30AABAB /* Pods-Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C99702803A12DA4AD2A7407E /* Pods-Tests-dummy.m */; };
-		5074B3230493A73E32125AD9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45BDCD0C5B2E5F40FB681B49 /* Foundation.framework */; };
-		5E6C79FBFC10FE1E6393971C /* Pods-Tests-BDBorderedButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AE691E9BF025125B8C424A63 /* Pods-Tests-BDBorderedButton-dummy.m */; };
-		64DD9BAD1D4E9DEAF997502C /* BDBorderedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C87FA5B79D4A7618A61878E0 /* BDBorderedButton.m */; };
-		764CB3642637CD48A9085FA0 /* Pods-BDBorderedButton-BDBorderedButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F68D0C9C6EA8570166B279D /* Pods-BDBorderedButton-BDBorderedButton-dummy.m */; };
-		7DB90B5630DF0E0221F5CE4E /* Pods-BDBorderedButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 50112ACB9CFDCAD671ED708F /* Pods-BDBorderedButton-dummy.m */; };
-		A0B862B08B1D4873B318C3AF /* Quartzcore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0846D80902D5B8BAD9114963 /* Quartzcore.framework */; };
-		A3ADF2789234E6ED70C99651 /* BDBorderedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = C87FA5B79D4A7618A61878E0 /* BDBorderedButton.m */; };
-		B04A0CE1264B73FE7751AAA8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45BDCD0C5B2E5F40FB681B49 /* Foundation.framework */; };
-		C2E7F62ECF59563B91C1D4F3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45BDCD0C5B2E5F40FB681B49 /* Foundation.framework */; };
-		D2A5B314E4A68C9A51A6849F /* BDBorderedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 8A7D6E24E1D6A4DFDC2B03D9 /* BDBorderedButton.h */; };
-		DAE2C6126B04180FB3F0345F /* Quartzcore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0846D80902D5B8BAD9114963 /* Quartzcore.framework */; };
+		11D91B20E7DFC8F4D8696334 /* BDBorderedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D376D7BBD69585EBAB4AE8C9 /* BDBorderedButton.m */; };
+		22E69786223C54DE26A131A1 /* Pods-Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 03443D774A608BB2BBF094E6 /* Pods-Tests-dummy.m */; };
+		29B6F2D9E63B55458EDF8925 /* BDBorderedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D376D7BBD69585EBAB4AE8C9 /* BDBorderedButton.m */; };
+		5FED9BFC36640F321886538F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046F87475CBBD252E60901AE /* Foundation.framework */; };
+		65461F7EFA79C428C1E5BC15 /* Pods-BDBorderedButton-BDBorderedButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4917EF8449893D5AAE3BB0C3 /* Pods-BDBorderedButton-BDBorderedButton-dummy.m */; };
+		7A6502DCB084B3B4B671E57D /* Pods-Tests-BDBorderedButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB4262A5A0F983008796503B /* Pods-Tests-BDBorderedButton-dummy.m */; };
+		7FD4A929CF1F173626A6BC4D /* BDBorderedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = E0BFCCB78B5421A57953304E /* BDBorderedButton.h */; };
+		99E79BDCA0781EB8F01FB384 /* Quartzcore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38250898D7F1E0CD042B33AD /* Quartzcore.framework */; };
+		9CFA8BB540BE1BFBE08CF0FE /* Quartzcore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38250898D7F1E0CD042B33AD /* Quartzcore.framework */; };
+		9EEDEF0B8D06C7EB3DC7AED5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046F87475CBBD252E60901AE /* Foundation.framework */; };
+		A12B7333332194E373DB5186 /* BDBorderedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = E0BFCCB78B5421A57953304E /* BDBorderedButton.h */; };
+		B338499AABF9B7019735E835 /* Pods-BDBorderedButton-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1614E753F8E9CE312FFAB836 /* Pods-BDBorderedButton-dummy.m */; };
+		CAC3EC6996DA0623E20FA131 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046F87475CBBD252E60901AE /* Foundation.framework */; };
+		CBEA82FD73AAFE8F6329EEF4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046F87475CBBD252E60901AE /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5630B2D98C8BD1CB7A478EFE /* PBXContainerItemProxy */ = {
+		25F99A332F215F049F780D24 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3BA2BBC8FEDDB03876B7CC2B /* Project object */;
+			containerPortal = 8E427D3D7B911D9594FF1D68 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 414E7848CD740B488E7731A8;
-			remoteInfo = "Pods-BDBorderedButton-BDBorderedButton";
-		};
-		D2563F1DEA929BCA61F2B6CA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 3BA2BBC8FEDDB03876B7CC2B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E23B268135954EB85CCCAF26;
+			remoteGlobalIDString = EB395891F0D5EE3C8D2A9BC4;
 			remoteInfo = "Pods-Tests-BDBorderedButton";
 		};
-		E17F160C679C2A9890DA9211 /* PBXContainerItemProxy */ = {
+		46BF95FF1B93B6FEDA6CE195 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3BA2BBC8FEDDB03876B7CC2B /* Project object */;
+			containerPortal = 8E427D3D7B911D9594FF1D68 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CA9C3F82AAEC3E9E77A7BBCE;
+			remoteGlobalIDString = C0926865B865D29AFD1D9FF9;
 			remoteInfo = "Pods-Tests-BDBorderedButton-BDBorderedButton";
 		};
-		E190D344F8C4641C248AABC5 /* PBXContainerItemProxy */ = {
+		C29AA06BA27F2C1F72CABB88 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3BA2BBC8FEDDB03876B7CC2B /* Project object */;
+			containerPortal = 8E427D3D7B911D9594FF1D68 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 66599D90AC6E4611E620F742;
+			remoteGlobalIDString = E3E50FBC3CD46EF6A174D731;
+			remoteInfo = "Pods-BDBorderedButton-BDBorderedButton";
+		};
+		E9C4A1EF654A32EE7F8BFCF1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8E427D3D7B911D9594FF1D68 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 96DC3DE2C0B9EABAC9B52DD2;
 			remoteInfo = "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		046898E4FE5B48E17AB5C2B4 /* BDBorderedButton.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BDBorderedButton.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		0846D80902D5B8BAD9114963 /* Quartzcore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartzcore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Quartzcore.framework; sourceTree = DEVELOPER_DIR; };
-		211122F3F157745D96931CB0 /* Pods-BDBorderedButton.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton.debug.xcconfig"; sourceTree = "<group>"; };
-		263E8DE2A70F0CA6C798CCBC /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		37B6E3240D053D2574B33EA4 /* Pods-Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tests-environment.h"; sourceTree = "<group>"; };
-		45BDCD0C5B2E5F40FB681B49 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		50112ACB9CFDCAD671ED708F /* Pods-BDBorderedButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BDBorderedButton-dummy.m"; sourceTree = "<group>"; };
-		6577B25F5ED38B6E56187E87 /* Pods-Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		685FA6B75EA4D9420F2E453E /* Pods-Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tests-resources.sh"; sourceTree = "<group>"; };
-		6E64B6C4A4BAA891FE553623 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig"; sourceTree = "<group>"; };
-		70391B58C4DD233D1ED72B66 /* BDBorderedButton.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BDBorderedButton.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		7F68D0C9C6EA8570166B279D /* Pods-BDBorderedButton-BDBorderedButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BDBorderedButton-BDBorderedButton-dummy.m"; sourceTree = "<group>"; };
-		8A7D6E24E1D6A4DFDC2B03D9 /* BDBorderedButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BDBorderedButton.h; sourceTree = "<group>"; };
-		8E8C66851FBE4C38A416A352 /* Pods-BDBorderedButton-BDBorderedButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BDBorderedButton-BDBorderedButton-prefix.pch"; sourceTree = "<group>"; };
-		906FE9E9BF1DB326A0B45664 /* libPods-BDBorderedButton-BDBorderedButton.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BDBorderedButton-BDBorderedButton.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		91EA0FB2A901008C6514044B /* libPods-BDBorderedButton.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BDBorderedButton.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		940492F6A7F4B6AECCD87039 /* Pods-BDBorderedButton-BDBorderedButton.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton-BDBorderedButton.xcconfig"; sourceTree = "<group>"; };
-		A091BF486FEED59876E088F1 /* Pods-BDBorderedButton-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BDBorderedButton-acknowledgements.plist"; sourceTree = "<group>"; };
-		A54FA604DD714CE0F1E25573 /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		A8717BE39C98324DF06B5CD5 /* Pods-Tests-BDBorderedButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Tests-BDBorderedButton-prefix.pch"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-prefix.pch"; sourceTree = "<group>"; };
-		AA9CDBE553B97414915AD7E2 /* Pods-Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		AAE1E3F58879B681A7CFF31F /* Pods-BDBorderedButton.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton.release.xcconfig"; sourceTree = "<group>"; };
-		AE691E9BF025125B8C424A63 /* Pods-Tests-BDBorderedButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Tests-BDBorderedButton-dummy.m"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-dummy.m"; sourceTree = "<group>"; };
-		BE3DC4B28460665D5434380F /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BECE9B404B8FA8D9003A62A6 /* Pods-BDBorderedButton-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BDBorderedButton-environment.h"; sourceTree = "<group>"; };
-		C361FA684D4A0BFCE383B061 /* Pods-BDBorderedButton-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BDBorderedButton-resources.sh"; sourceTree = "<group>"; };
-		C87FA5B79D4A7618A61878E0 /* BDBorderedButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BDBorderedButton.m; sourceTree = "<group>"; };
-		C99702803A12DA4AD2A7407E /* Pods-Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tests-dummy.m"; sourceTree = "<group>"; };
-		CCC3E95D74533523349A999F /* Pods-BDBorderedButton-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BDBorderedButton-acknowledgements.markdown"; sourceTree = "<group>"; };
-		DEDA3DC23071982868E8A76B /* Pods-Tests-BDBorderedButton.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-BDBorderedButton.xcconfig"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton.xcconfig"; sourceTree = "<group>"; };
-		E314A5D0ED7EC18B88801102 /* Pods-Tests-BDBorderedButton-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-BDBorderedButton-Private.xcconfig"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-Private.xcconfig"; sourceTree = "<group>"; };
-		F18DF8878769A4504C2C4298 /* libPods-Tests-BDBorderedButton.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests-BDBorderedButton.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		F45D63DF4143B6F7AB6454AB /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
+		03443D774A608BB2BBF094E6 /* Pods-Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Tests-dummy.m"; sourceTree = "<group>"; };
+		046F87475CBBD252E60901AE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		0BA7F86119185F193CDF8F28 /* Pods-BDBorderedButton.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton.release.xcconfig"; sourceTree = "<group>"; };
+		0FA75DDE5D90E9554047374F /* Pods-Tests-BDBorderedButton.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-BDBorderedButton.xcconfig"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton.xcconfig"; sourceTree = "<group>"; };
+		10375D4E8D83E4FA171FD2C4 /* libPods-BDBorderedButton.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BDBorderedButton.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1614E753F8E9CE312FFAB836 /* Pods-BDBorderedButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BDBorderedButton-dummy.m"; sourceTree = "<group>"; };
+		1A671CFE19EBABB6F0B61557 /* Pods-BDBorderedButton-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BDBorderedButton-resources.sh"; sourceTree = "<group>"; };
+		2244A60FFC094669AEFC2654 /* Pods-Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.release.xcconfig"; sourceTree = "<group>"; };
+		22B6DC3E0421227DEB0C53BE /* Pods-BDBorderedButton-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BDBorderedButton-acknowledgements.markdown"; sourceTree = "<group>"; };
+		246298EE0AD8F275FBF491C1 /* Pods-BDBorderedButton-BDBorderedButton.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton-BDBorderedButton.xcconfig"; sourceTree = "<group>"; };
+		24B7C69FA1A4EF430B5F32BD /* libPods-Tests-BDBorderedButton.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests-BDBorderedButton.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		38250898D7F1E0CD042B33AD /* Quartzcore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartzcore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Quartzcore.framework; sourceTree = DEVELOPER_DIR; };
+		38DEFAF872D31597161CB726 /* libPods-Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A13E1A304508BFCFF53C05A /* Pods-BDBorderedButton.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton.debug.xcconfig"; sourceTree = "<group>"; };
+		42A0726599F467EA8942C7D1 /* BDBorderedButton.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BDBorderedButton.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		44386D4F63F0914A1771ED36 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig"; sourceTree = "<group>"; };
+		45F8A2E5AF1630DB6B499F90 /* Pods-Tests-BDBorderedButton-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-BDBorderedButton-Private.xcconfig"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-Private.xcconfig"; sourceTree = "<group>"; };
+		4917EF8449893D5AAE3BB0C3 /* Pods-BDBorderedButton-BDBorderedButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BDBorderedButton-BDBorderedButton-dummy.m"; sourceTree = "<group>"; };
+		4F9AC894691502550294F19D /* Pods-Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		93763C4408AE57AD86BDC91C /* Pods-Tests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Tests-environment.h"; sourceTree = "<group>"; };
+		AD16F5200C90188C90F7FFAA /* BDBorderedButton.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BDBorderedButton.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		ADF96E3A36731BC1A353CDAC /* libPods-BDBorderedButton-BDBorderedButton.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BDBorderedButton-BDBorderedButton.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B1A0D372C3B887456E12A6E8 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C4AC34911164EBABCE9A289F /* Pods-Tests-BDBorderedButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-Tests-BDBorderedButton-prefix.pch"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-prefix.pch"; sourceTree = "<group>"; };
+		CB4262A5A0F983008796503B /* Pods-Tests-BDBorderedButton-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-Tests-BDBorderedButton-dummy.m"; path = "../Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-dummy.m"; sourceTree = "<group>"; };
+		D376D7BBD69585EBAB4AE8C9 /* BDBorderedButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BDBorderedButton.m; sourceTree = "<group>"; };
+		D565E042829A87C70BE33EAB /* Pods-BDBorderedButton-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BDBorderedButton-acknowledgements.plist"; sourceTree = "<group>"; };
+		D58F6DEA471E6C1C500F33B9 /* Pods-BDBorderedButton-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BDBorderedButton-environment.h"; sourceTree = "<group>"; };
+		D70F80D6DB87DB0F71481554 /* Pods-Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Tests-resources.sh"; sourceTree = "<group>"; };
+		DA8A0516E08A0EF90664BF96 /* Pods-BDBorderedButton-BDBorderedButton-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BDBorderedButton-BDBorderedButton-prefix.pch"; sourceTree = "<group>"; };
+		E0BFCCB78B5421A57953304E /* BDBorderedButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BDBorderedButton.h; sourceTree = "<group>"; };
+		EDEEF6ACA3B11940CF277077 /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		FB0347EF08A75A3B4ADDCFD7 /* Pods-Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		71063DCDCB9D44598E273CF5 /* Frameworks */ = {
+		63E27E42B14795848CCB0F16 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2E7F62ECF59563B91C1D4F3 /* Foundation.framework in Frameworks */,
+				5FED9BFC36640F321886538F /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7A9B9DBA1CAF1209A2F41BCB /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B04A0CE1264B73FE7751AAA8 /* Foundation.framework in Frameworks */,
-				A0B862B08B1D4873B318C3AF /* Quartzcore.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7B8A86C9C3D21650AE748750 /* Frameworks */ = {
+		9125715E2AFD748EED143330 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A033F0D26D9FEE0EA19291B9 /* Frameworks */ = {
+		B15C08A25D8A6C51F22DCA64 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3667CEEC7A8A77FF9401E23C /* Foundation.framework in Frameworks */,
-				DAE2C6126B04180FB3F0345F /* Quartzcore.framework in Frameworks */,
+				CAC3EC6996DA0623E20FA131 /* Foundation.framework in Frameworks */,
+				99E79BDCA0781EB8F01FB384 /* Quartzcore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D3E11E6A620EDCF8C256E3BE /* Frameworks */ = {
+		B77B9A701A2AE5F9C2C09162 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5074B3230493A73E32125AD9 /* Foundation.framework in Frameworks */,
+				9EEDEF0B8D06C7EB3DC7AED5 /* Foundation.framework in Frameworks */,
+				9CFA8BB540BE1BFBE08CF0FE /* Quartzcore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F4D84E3EED49F291C5C8BA0B /* Frameworks */ = {
+		CCC697781E9369AE639E6992 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CBEA82FD73AAFE8F6329EEF4 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DB3797C0CD61BE4E1CD79B63 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -142,184 +142,200 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1D1DDF27D21376717C021685 /* Products */ = {
+		0D2329F030539C15F0FDA94B /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				046898E4FE5B48E17AB5C2B4 /* BDBorderedButton.bundle */,
-				70391B58C4DD233D1ED72B66 /* BDBorderedButton.bundle */,
-				91EA0FB2A901008C6514044B /* libPods-BDBorderedButton.a */,
-				906FE9E9BF1DB326A0B45664 /* libPods-BDBorderedButton-BDBorderedButton.a */,
-				BE3DC4B28460665D5434380F /* libPods-Tests.a */,
-				F18DF8878769A4504C2C4298 /* libPods-Tests-BDBorderedButton.a */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		279041A43E871F880B12A75D /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				A52225CF266B7CAA69001223 /* Classes */,
-			);
-			path = Pod;
-			sourceTree = "<group>";
-		};
-		31B97BD7A0BF5346647F3145 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				45BDCD0C5B2E5F40FB681B49 /* Foundation.framework */,
-				0846D80902D5B8BAD9114963 /* Quartzcore.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		45CC80835E294C7467BB8F3B /* Pods-Tests */ = {
-			isa = PBXGroup;
-			children = (
-				AA9CDBE553B97414915AD7E2 /* Pods-Tests-acknowledgements.markdown */,
-				6577B25F5ED38B6E56187E87 /* Pods-Tests-acknowledgements.plist */,
-				C99702803A12DA4AD2A7407E /* Pods-Tests-dummy.m */,
-				37B6E3240D053D2574B33EA4 /* Pods-Tests-environment.h */,
-				685FA6B75EA4D9420F2E453E /* Pods-Tests-resources.sh */,
-				A54FA604DD714CE0F1E25573 /* Pods-Tests.debug.xcconfig */,
-				F45D63DF4143B6F7AB6454AB /* Pods-Tests.release.xcconfig */,
-			);
-			name = "Pods-Tests";
-			path = "Target Support Files/Pods-Tests";
-			sourceTree = "<group>";
-		};
-		634B888F3D2A1D9C6C15B712 /* Pods-BDBorderedButton */ = {
-			isa = PBXGroup;
-			children = (
-				CCC3E95D74533523349A999F /* Pods-BDBorderedButton-acknowledgements.markdown */,
-				A091BF486FEED59876E088F1 /* Pods-BDBorderedButton-acknowledgements.plist */,
-				50112ACB9CFDCAD671ED708F /* Pods-BDBorderedButton-dummy.m */,
-				BECE9B404B8FA8D9003A62A6 /* Pods-BDBorderedButton-environment.h */,
-				C361FA684D4A0BFCE383B061 /* Pods-BDBorderedButton-resources.sh */,
-				211122F3F157745D96931CB0 /* Pods-BDBorderedButton.debug.xcconfig */,
-				AAE1E3F58879B681A7CFF31F /* Pods-BDBorderedButton.release.xcconfig */,
-			);
-			name = "Pods-BDBorderedButton";
-			path = "Target Support Files/Pods-BDBorderedButton";
-			sourceTree = "<group>";
-		};
-		64147DA88E8EB5AA47A6972E /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				31B97BD7A0BF5346647F3145 /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		928BAEEBE40C72ECAE3C380A /* BDBorderedButton */ = {
-			isa = PBXGroup;
-			children = (
-				279041A43E871F880B12A75D /* Pod */,
-				A8B1C70F0383266AF21B4B1B /* Support Files */,
-			);
-			name = BDBorderedButton;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		A52225CF266B7CAA69001223 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				8A7D6E24E1D6A4DFDC2B03D9 /* BDBorderedButton.h */,
-				C87FA5B79D4A7618A61878E0 /* BDBorderedButton.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		A66A25F5E12C948DE86F98CB = {
-			isa = PBXGroup;
-			children = (
-				263E8DE2A70F0CA6C798CCBC /* Podfile */,
-				F2E93BE01430E2F3E9DD25E3 /* Development Pods */,
-				64147DA88E8EB5AA47A6972E /* Frameworks */,
-				1D1DDF27D21376717C021685 /* Products */,
-				C8493D62F6E91128DB60B121 /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		A8B1C70F0383266AF21B4B1B /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				940492F6A7F4B6AECCD87039 /* Pods-BDBorderedButton-BDBorderedButton.xcconfig */,
-				6E64B6C4A4BAA891FE553623 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */,
-				7F68D0C9C6EA8570166B279D /* Pods-BDBorderedButton-BDBorderedButton-dummy.m */,
-				8E8C66851FBE4C38A416A352 /* Pods-BDBorderedButton-BDBorderedButton-prefix.pch */,
-				DEDA3DC23071982868E8A76B /* Pods-Tests-BDBorderedButton.xcconfig */,
-				E314A5D0ED7EC18B88801102 /* Pods-Tests-BDBorderedButton-Private.xcconfig */,
-				AE691E9BF025125B8C424A63 /* Pods-Tests-BDBorderedButton-dummy.m */,
-				A8717BE39C98324DF06B5CD5 /* Pods-Tests-BDBorderedButton-prefix.pch */,
+				246298EE0AD8F275FBF491C1 /* Pods-BDBorderedButton-BDBorderedButton.xcconfig */,
+				44386D4F63F0914A1771ED36 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */,
+				4917EF8449893D5AAE3BB0C3 /* Pods-BDBorderedButton-BDBorderedButton-dummy.m */,
+				DA8A0516E08A0EF90664BF96 /* Pods-BDBorderedButton-BDBorderedButton-prefix.pch */,
+				0FA75DDE5D90E9554047374F /* Pods-Tests-BDBorderedButton.xcconfig */,
+				45F8A2E5AF1630DB6B499F90 /* Pods-Tests-BDBorderedButton-Private.xcconfig */,
+				CB4262A5A0F983008796503B /* Pods-Tests-BDBorderedButton-dummy.m */,
+				C4AC34911164EBABCE9A289F /* Pods-Tests-BDBorderedButton-prefix.pch */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/Pods-BDBorderedButton-BDBorderedButton";
 			sourceTree = "<group>";
 		};
-		C8493D62F6E91128DB60B121 /* Targets Support Files */ = {
+		2DD199F3E73D60F6D70141BA /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				634B888F3D2A1D9C6C15B712 /* Pods-BDBorderedButton */,
-				45CC80835E294C7467BB8F3B /* Pods-Tests */,
+				C0E9B2D9DA6BEA666CFC5D19 /* Pods-BDBorderedButton */,
+				36838BF2F354D1FF4A0AA585 /* Pods-Tests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		F2E93BE01430E2F3E9DD25E3 /* Development Pods */ = {
+		36838BF2F354D1FF4A0AA585 /* Pods-Tests */ = {
 			isa = PBXGroup;
 			children = (
-				928BAEEBE40C72ECAE3C380A /* BDBorderedButton */,
+				FB0347EF08A75A3B4ADDCFD7 /* Pods-Tests-acknowledgements.markdown */,
+				4F9AC894691502550294F19D /* Pods-Tests-acknowledgements.plist */,
+				03443D774A608BB2BBF094E6 /* Pods-Tests-dummy.m */,
+				93763C4408AE57AD86BDC91C /* Pods-Tests-environment.h */,
+				D70F80D6DB87DB0F71481554 /* Pods-Tests-resources.sh */,
+				EDEEF6ACA3B11940CF277077 /* Pods-Tests.debug.xcconfig */,
+				2244A60FFC094669AEFC2654 /* Pods-Tests.release.xcconfig */,
+			);
+			name = "Pods-Tests";
+			path = "Target Support Files/Pods-Tests";
+			sourceTree = "<group>";
+		};
+		3BF94813151EB2170784547F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				046F87475CBBD252E60901AE /* Foundation.framework */,
+				38250898D7F1E0CD042B33AD /* Quartzcore.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		48F2F4A8F41EB2FC793F100A = {
+			isa = PBXGroup;
+			children = (
+				B1A0D372C3B887456E12A6E8 /* Podfile */,
+				9CE033125628CBCC39AC24A8 /* Development Pods */,
+				D4CA74236DA2B5C23CC75C0D /* Frameworks */,
+				F475D782C9E1C9372A314CBB /* Products */,
+				2DD199F3E73D60F6D70141BA /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		691D7540680A1B52B3B2D98F /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				E0BFCCB78B5421A57953304E /* BDBorderedButton.h */,
+				D376D7BBD69585EBAB4AE8C9 /* BDBorderedButton.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		9CE033125628CBCC39AC24A8 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A3A9B8F8054D1B34CE5055D7 /* BDBorderedButton */,
 			);
 			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		A3A9B8F8054D1B34CE5055D7 /* BDBorderedButton */ = {
+			isa = PBXGroup;
+			children = (
+				E280C06F034D12B89DB8F63D /* Pod */,
+				0D2329F030539C15F0FDA94B /* Support Files */,
+			);
+			name = BDBorderedButton;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		C0E9B2D9DA6BEA666CFC5D19 /* Pods-BDBorderedButton */ = {
+			isa = PBXGroup;
+			children = (
+				22B6DC3E0421227DEB0C53BE /* Pods-BDBorderedButton-acknowledgements.markdown */,
+				D565E042829A87C70BE33EAB /* Pods-BDBorderedButton-acknowledgements.plist */,
+				1614E753F8E9CE312FFAB836 /* Pods-BDBorderedButton-dummy.m */,
+				D58F6DEA471E6C1C500F33B9 /* Pods-BDBorderedButton-environment.h */,
+				1A671CFE19EBABB6F0B61557 /* Pods-BDBorderedButton-resources.sh */,
+				3A13E1A304508BFCFF53C05A /* Pods-BDBorderedButton.debug.xcconfig */,
+				0BA7F86119185F193CDF8F28 /* Pods-BDBorderedButton.release.xcconfig */,
+			);
+			name = "Pods-BDBorderedButton";
+			path = "Target Support Files/Pods-BDBorderedButton";
+			sourceTree = "<group>";
+		};
+		D4CA74236DA2B5C23CC75C0D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3BF94813151EB2170784547F /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E280C06F034D12B89DB8F63D /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				691D7540680A1B52B3B2D98F /* Classes */,
+			);
+			path = Pod;
+			sourceTree = "<group>";
+		};
+		F475D782C9E1C9372A314CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD16F5200C90188C90F7FFAA /* BDBorderedButton.bundle */,
+				42A0726599F467EA8942C7D1 /* BDBorderedButton.bundle */,
+				10375D4E8D83E4FA171FD2C4 /* libPods-BDBorderedButton.a */,
+				ADF96E3A36731BC1A353CDAC /* libPods-BDBorderedButton-BDBorderedButton.a */,
+				38DEFAF872D31597161CB726 /* libPods-Tests.a */,
+				24B7C69FA1A4EF430B5F32BD /* libPods-Tests-BDBorderedButton.a */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		00373BE149BCDD66705031B5 /* Headers */ = {
+		1BB7E1DD8C54B6BE7843483B /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11B64A7638555E81E16A112A /* BDBorderedButton.h in Headers */,
+				7FD4A929CF1F173626A6BC4D /* BDBorderedButton.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C7E951C846D729DAE971A669 /* Headers */ = {
+		6B68F28AC26247886F9E21C7 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D2A5B314E4A68C9A51A6849F /* BDBorderedButton.h in Headers */,
+				A12B7333332194E373DB5186 /* BDBorderedButton.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		414E7848CD740B488E7731A8 /* Pods-BDBorderedButton-BDBorderedButton */ = {
+		357FA854285BE11F03094CE6 /* Pods-Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 177DE76A1E00A2DC2F399E06 /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton" */;
+			buildConfigurationList = 9BACC6D47637732B73C4A58A /* Build configuration list for PBXNativeTarget "Pods-Tests" */;
 			buildPhases = (
-				7D972BF0CF75C4E733AB8FAA /* Sources */,
-				A033F0D26D9FEE0EA19291B9 /* Frameworks */,
-				C7E951C846D729DAE971A669 /* Headers */,
+				066818689CFCD0A6FC7D4459 /* Sources */,
+				CCC697781E9369AE639E6992 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				74D2C14526302123A38B26D2 /* PBXTargetDependency */,
+				D19C307119564D7D532ACD1F /* PBXTargetDependency */,
 			);
-			name = "Pods-BDBorderedButton-BDBorderedButton";
-			productName = "Pods-BDBorderedButton-BDBorderedButton";
-			productReference = 906FE9E9BF1DB326A0B45664 /* libPods-BDBorderedButton-BDBorderedButton.a */;
+			name = "Pods-Tests";
+			productName = "Pods-Tests";
+			productReference = 38DEFAF872D31597161CB726 /* libPods-Tests.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		66599D90AC6E4611E620F742 /* Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton */ = {
+		7E68A74186640B524CD2356E /* Pods-BDBorderedButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B68997C6E70B9BF037C4E16E /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton" */;
+			buildConfigurationList = 3AD8011BC6F4E45F8686A93B /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton" */;
 			buildPhases = (
-				1D633B12405FD3269A36F7D5 /* Sources */,
-				7B8A86C9C3D21650AE748750 /* Frameworks */,
-				610F5BF6F490C906D3F3F645 /* Resources */,
+				1EAEB166E41C981A2F2FE74C /* Sources */,
+				63E27E42B14795848CCB0F16 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3DD81E94A99B4F33EBC3A052 /* PBXTargetDependency */,
+			);
+			name = "Pods-BDBorderedButton";
+			productName = "Pods-BDBorderedButton";
+			productReference = 10375D4E8D83E4FA171FD2C4 /* libPods-BDBorderedButton.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		96DC3DE2C0B9EABAC9B52DD2 /* Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24D8601FB4B413B8AF89F20A /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton" */;
+			buildPhases = (
+				D4A4ABB84BA5FA67F698CF7C /* Sources */,
+				9125715E2AFD748EED143330 /* Frameworks */,
+				98B24659B4F231FDB23CD84B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -327,33 +343,16 @@
 			);
 			name = "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton";
 			productName = "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton";
-			productReference = 70391B58C4DD233D1ED72B66 /* BDBorderedButton.bundle */;
+			productReference = 42A0726599F467EA8942C7D1 /* BDBorderedButton.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
-		C0B309FFFB0F135E4249A380 /* Pods-BDBorderedButton */ = {
+		C0926865B865D29AFD1D9FF9 /* Pods-Tests-BDBorderedButton-BDBorderedButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 384043E887AA94FC98719A0D /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton" */;
+			buildConfigurationList = 586E724412A5099B0CAF9347 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton-BDBorderedButton" */;
 			buildPhases = (
-				283D7E7C0887B740FF58B587 /* Sources */,
-				71063DCDCB9D44598E273CF5 /* Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				5BEF6ADAEEDD15179C858CB1 /* PBXTargetDependency */,
-			);
-			name = "Pods-BDBorderedButton";
-			productName = "Pods-BDBorderedButton";
-			productReference = 91EA0FB2A901008C6514044B /* libPods-BDBorderedButton.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		CA9C3F82AAEC3E9E77A7BBCE /* Pods-Tests-BDBorderedButton-BDBorderedButton */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 695F041CA25ABA9799836747 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton-BDBorderedButton" */;
-			buildPhases = (
-				F07DA734CF901D0990C2BF0C /* Sources */,
-				F4D84E3EED49F291C5C8BA0B /* Frameworks */,
-				A49D729AB953A5A2F0F16AF1 /* Resources */,
+				88384BDCDA3084232DE67731 /* Sources */,
+				DB3797C0CD61BE4E1CD79B63 /* Frameworks */,
+				6929423F93AB67D1EA6685A5 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -361,83 +360,84 @@
 			);
 			name = "Pods-Tests-BDBorderedButton-BDBorderedButton";
 			productName = "Pods-Tests-BDBorderedButton-BDBorderedButton";
-			productReference = 046898E4FE5B48E17AB5C2B4 /* BDBorderedButton.bundle */;
+			productReference = AD16F5200C90188C90F7FFAA /* BDBorderedButton.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
-		E23B268135954EB85CCCAF26 /* Pods-Tests-BDBorderedButton */ = {
+		E3E50FBC3CD46EF6A174D731 /* Pods-BDBorderedButton-BDBorderedButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A3CD385281B7805CAFE74A8 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton" */;
+			buildConfigurationList = 3C820001BB52AB93AB32EF3A /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton" */;
 			buildPhases = (
-				8CDD1E879F426293A3D3A2BF /* Sources */,
-				7A9B9DBA1CAF1209A2F41BCB /* Frameworks */,
-				00373BE149BCDD66705031B5 /* Headers */,
+				FBE04168E6EC2DF3BB399994 /* Sources */,
+				B77B9A701A2AE5F9C2C09162 /* Frameworks */,
+				1BB7E1DD8C54B6BE7843483B /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				148EFEB02C382E04D5C3DF37 /* PBXTargetDependency */,
+				E8EE66AF6C7D39C353C2D0F1 /* PBXTargetDependency */,
+			);
+			name = "Pods-BDBorderedButton-BDBorderedButton";
+			productName = "Pods-BDBorderedButton-BDBorderedButton";
+			productReference = ADF96E3A36731BC1A353CDAC /* libPods-BDBorderedButton-BDBorderedButton.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		EB395891F0D5EE3C8D2A9BC4 /* Pods-Tests-BDBorderedButton */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FBB3C528A0D503F38EBA65D8 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton" */;
+			buildPhases = (
+				E76A0C3AE9E1C326275552C0 /* Sources */,
+				B15C08A25D8A6C51F22DCA64 /* Frameworks */,
+				6B68F28AC26247886F9E21C7 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AAFCFB3611E368CD4120D83C /* PBXTargetDependency */,
 			);
 			name = "Pods-Tests-BDBorderedButton";
 			productName = "Pods-Tests-BDBorderedButton";
-			productReference = F18DF8878769A4504C2C4298 /* libPods-Tests-BDBorderedButton.a */;
-			productType = "com.apple.product-type.library.static";
-		};
-		FBC711AC8D633172ADCFF7E6 /* Pods-Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7B551A235EF3698DB13B6129 /* Build configuration list for PBXNativeTarget "Pods-Tests" */;
-			buildPhases = (
-				1C24A2A430249CBEE68CD722 /* Sources */,
-				D3E11E6A620EDCF8C256E3BE /* Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				B153A6A60193E7D5E6243905 /* PBXTargetDependency */,
-			);
-			name = "Pods-Tests";
-			productName = "Pods-Tests";
-			productReference = BE3DC4B28460665D5434380F /* libPods-Tests.a */;
+			productReference = 24B7C69FA1A4EF430B5F32BD /* libPods-Tests-BDBorderedButton.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3BA2BBC8FEDDB03876B7CC2B /* Project object */ = {
+		8E427D3D7B911D9594FF1D68 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0510;
 			};
-			buildConfigurationList = 63A46FDF123BFBF051110D1C /* Build configuration list for PBXProject "Pods" */;
+			buildConfigurationList = 3C31AA1FAA3EF1E1AA70E0F5 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = A66A25F5E12C948DE86F98CB;
-			productRefGroup = 1D1DDF27D21376717C021685 /* Products */;
+			mainGroup = 48F2F4A8F41EB2FC793F100A;
+			productRefGroup = F475D782C9E1C9372A314CBB /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C0B309FFFB0F135E4249A380 /* Pods-BDBorderedButton */,
-				414E7848CD740B488E7731A8 /* Pods-BDBorderedButton-BDBorderedButton */,
-				66599D90AC6E4611E620F742 /* Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton */,
-				FBC711AC8D633172ADCFF7E6 /* Pods-Tests */,
-				E23B268135954EB85CCCAF26 /* Pods-Tests-BDBorderedButton */,
-				CA9C3F82AAEC3E9E77A7BBCE /* Pods-Tests-BDBorderedButton-BDBorderedButton */,
+				7E68A74186640B524CD2356E /* Pods-BDBorderedButton */,
+				E3E50FBC3CD46EF6A174D731 /* Pods-BDBorderedButton-BDBorderedButton */,
+				96DC3DE2C0B9EABAC9B52DD2 /* Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton */,
+				357FA854285BE11F03094CE6 /* Pods-Tests */,
+				EB395891F0D5EE3C8D2A9BC4 /* Pods-Tests-BDBorderedButton */,
+				C0926865B865D29AFD1D9FF9 /* Pods-Tests-BDBorderedButton-BDBorderedButton */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		610F5BF6F490C906D3F3F645 /* Resources */ = {
+		6929423F93AB67D1EA6685A5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A49D729AB953A5A2F0F16AF1 /* Resources */ = {
+		98B24659B4F231FDB23CD84B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -447,85 +447,117 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1C24A2A430249CBEE68CD722 /* Sources */ = {
+		066818689CFCD0A6FC7D4459 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49FA9C0A04AD9940C30AABAB /* Pods-Tests-dummy.m in Sources */,
+				22E69786223C54DE26A131A1 /* Pods-Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1D633B12405FD3269A36F7D5 /* Sources */ = {
+		1EAEB166E41C981A2F2FE74C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B338499AABF9B7019735E835 /* Pods-BDBorderedButton-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		88384BDCDA3084232DE67731 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		283D7E7C0887B740FF58B587 /* Sources */ = {
+		D4A4ABB84BA5FA67F698CF7C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7DB90B5630DF0E0221F5CE4E /* Pods-BDBorderedButton-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7D972BF0CF75C4E733AB8FAA /* Sources */ = {
+		E76A0C3AE9E1C326275552C0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3ADF2789234E6ED70C99651 /* BDBorderedButton.m in Sources */,
-				764CB3642637CD48A9085FA0 /* Pods-BDBorderedButton-BDBorderedButton-dummy.m in Sources */,
+				29B6F2D9E63B55458EDF8925 /* BDBorderedButton.m in Sources */,
+				7A6502DCB084B3B4B671E57D /* Pods-Tests-BDBorderedButton-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8CDD1E879F426293A3D3A2BF /* Sources */ = {
+		FBE04168E6EC2DF3BB399994 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64DD9BAD1D4E9DEAF997502C /* BDBorderedButton.m in Sources */,
-				5E6C79FBFC10FE1E6393971C /* Pods-Tests-BDBorderedButton-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F07DA734CF901D0990C2BF0C /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				11D91B20E7DFC8F4D8696334 /* BDBorderedButton.m in Sources */,
+				65461F7EFA79C428C1E5BC15 /* Pods-BDBorderedButton-BDBorderedButton-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		148EFEB02C382E04D5C3DF37 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-Tests-BDBorderedButton-BDBorderedButton";
-			target = CA9C3F82AAEC3E9E77A7BBCE /* Pods-Tests-BDBorderedButton-BDBorderedButton */;
-			targetProxy = E17F160C679C2A9890DA9211 /* PBXContainerItemProxy */;
-		};
-		5BEF6ADAEEDD15179C858CB1 /* PBXTargetDependency */ = {
+		3DD81E94A99B4F33EBC3A052 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-BDBorderedButton-BDBorderedButton";
-			target = 414E7848CD740B488E7731A8 /* Pods-BDBorderedButton-BDBorderedButton */;
-			targetProxy = 5630B2D98C8BD1CB7A478EFE /* PBXContainerItemProxy */;
+			target = E3E50FBC3CD46EF6A174D731 /* Pods-BDBorderedButton-BDBorderedButton */;
+			targetProxy = C29AA06BA27F2C1F72CABB88 /* PBXContainerItemProxy */;
 		};
-		74D2C14526302123A38B26D2 /* PBXTargetDependency */ = {
+		AAFCFB3611E368CD4120D83C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton";
-			target = 66599D90AC6E4611E620F742 /* Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton */;
-			targetProxy = E190D344F8C4641C248AABC5 /* PBXContainerItemProxy */;
+			name = "Pods-Tests-BDBorderedButton-BDBorderedButton";
+			target = C0926865B865D29AFD1D9FF9 /* Pods-Tests-BDBorderedButton-BDBorderedButton */;
+			targetProxy = 46BF95FF1B93B6FEDA6CE195 /* PBXContainerItemProxy */;
 		};
-		B153A6A60193E7D5E6243905 /* PBXTargetDependency */ = {
+		D19C307119564D7D532ACD1F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-Tests-BDBorderedButton";
-			target = E23B268135954EB85CCCAF26 /* Pods-Tests-BDBorderedButton */;
-			targetProxy = D2563F1DEA929BCA61F2B6CA /* PBXContainerItemProxy */;
+			target = EB395891F0D5EE3C8D2A9BC4 /* Pods-Tests-BDBorderedButton */;
+			targetProxy = 25F99A332F215F049F780D24 /* PBXContainerItemProxy */;
+		};
+		E8EE66AF6C7D39C353C2D0F1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton";
+			target = 96DC3DE2C0B9EABAC9B52DD2 /* Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton */;
+			targetProxy = E9C4A1EF654A32EE7F8BFCF1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		2F609741BDE4FBEC898DF26F /* Release */ = {
+		01B2A28CC87F709953464819 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 45F8A2E5AF1630DB6B499F90 /* Pods-Tests-BDBorderedButton-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		07FC5163FBFC3B18CDA1BBCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0BA7F86119185F193CDF8F28 /* Pods-BDBorderedButton.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		0DC58812722336585335C8CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -534,14 +566,75 @@
 				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
 			};
+			name = Debug;
+		};
+		1CA0618F4397306EAFFBD0E5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
 			name = Release;
 		};
-		4103E246534DEB21BD57BFEA /* Release */ = {
+		2C609F8AF244979982DAA49D /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E64B6C4A4BAA891FE553623 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */;
+			baseConfigurationReference = EDEEF6ACA3B11940CF277077 /* Pods-Tests.debug.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-BDBorderedButton-BDBorderedButton/Pods-BDBorderedButton-BDBorderedButton-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		469B63DA2BE73C51D38E10AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = BDBorderedButton;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		47AAC427085026D6468AF802 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 45F8A2E5AF1630DB6B499F90 /* Pods-Tests-BDBorderedButton-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-prefix.pch";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
@@ -552,7 +645,61 @@
 			};
 			name = Release;
 		};
-		4FDCC15036343237C6F86E41 /* Debug */ = {
+		ACD5D0D7FF59B48145A05F4E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = BDBorderedButton;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		BD8D528F7A85A0BA05C394BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = BDBorderedButton;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		C3A6F2AD31494DE3F02363AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2244A60FFC094669AEFC2654 /* Pods-Tests.release.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		CDECCE0463E2A9E152A29F24 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 44386D4F63F0914A1771ED36 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-BDBorderedButton-BDBorderedButton/Pods-BDBorderedButton-BDBorderedButton-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		D465513478D6EEEE48F9D70D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -591,138 +738,13 @@
 			};
 			name = Debug;
 		};
-		5034D8EED2FC870B46431C81 /* Debug */ = {
+		EEF737E5FA66030B4D2AD61E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E64B6C4A4BAA891FE553623 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */;
+			baseConfigurationReference = 44386D4F63F0914A1771ED36 /* Pods-BDBorderedButton-BDBorderedButton-Private.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_PREFIX_HEADER = "Target Support Files/Pods-BDBorderedButton-BDBorderedButton/Pods-BDBorderedButton-BDBorderedButton-prefix.pch";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		5BB425611F5821ADF94B85E4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				COPY_PHASE_STRIP = YES;
-				ENABLE_NS_ASSERTIONS = NO;
-				GCC_C_LANGUAGE_STANDARD = gnu99;
-				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				STRIP_INSTALLED_PRODUCT = NO;
-				SYMROOT = "${SRCROOT}/../build";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		5DB7EBAFAE3FBA7B28340FC3 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AAE1E3F58879B681A7CFF31F /* Pods-BDBorderedButton.release.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		5E120E0FE40DCB942004B3A3 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = BDBorderedButton;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		723C63E92815394B92DA6CF0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F45D63DF4143B6F7AB6454AB /* Pods-Tests.release.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		77E4F1A772B423552D810ADC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = A54FA604DD714CE0F1E25573 /* Pods-Tests.debug.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		816342FE7CADF513D17CA4CD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E314A5D0ED7EC18B88801102 /* Pods-Tests-BDBorderedButton-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		858868F2A61DC8B617399C61 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E314A5D0ED7EC18B88801102 /* Pods-Tests-BDBorderedButton-Private.xcconfig */;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/Pods-Tests-BDBorderedButton/Pods-Tests-BDBorderedButton-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
@@ -732,31 +754,9 @@
 			};
 			name = Release;
 		};
-		A1F7D6317AF8B51ADED849FE /* Debug */ = {
+		F4FC8DD650F082CFE13D5C2B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = BDBorderedButton;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		A33CD233CAE1779BE029BB4E /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				PRODUCT_NAME = BDBorderedButton;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Release;
-		};
-		FDC5534E6210D096C40B3E00 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 211122F3F157745D96931CB0 /* Pods-BDBorderedButton.debug.xcconfig */;
+			baseConfigurationReference = 3A13E1A304508BFCFF53C05A /* Pods-BDBorderedButton.debug.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
@@ -773,70 +773,70 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		177DE76A1E00A2DC2F399E06 /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton" */ = {
+		24D8601FB4B413B8AF89F20A /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5034D8EED2FC870B46431C81 /* Debug */,
-				4103E246534DEB21BD57BFEA /* Release */,
+				0DC58812722336585335C8CD /* Debug */,
+				ACD5D0D7FF59B48145A05F4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A3CD385281B7805CAFE74A8 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton" */ = {
+		3AD8011BC6F4E45F8686A93B /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				816342FE7CADF513D17CA4CD /* Debug */,
-				858868F2A61DC8B617399C61 /* Release */,
+				F4FC8DD650F082CFE13D5C2B /* Debug */,
+				07FC5163FBFC3B18CDA1BBCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		384043E887AA94FC98719A0D /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton" */ = {
+		3C31AA1FAA3EF1E1AA70E0F5 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FDC5534E6210D096C40B3E00 /* Debug */,
-				5DB7EBAFAE3FBA7B28340FC3 /* Release */,
+				D465513478D6EEEE48F9D70D /* Debug */,
+				1CA0618F4397306EAFFBD0E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63A46FDF123BFBF051110D1C /* Build configuration list for PBXProject "Pods" */ = {
+		3C820001BB52AB93AB32EF3A /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4FDCC15036343237C6F86E41 /* Debug */,
-				5BB425611F5821ADF94B85E4 /* Release */,
+				CDECCE0463E2A9E152A29F24 /* Debug */,
+				EEF737E5FA66030B4D2AD61E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		695F041CA25ABA9799836747 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton-BDBorderedButton" */ = {
+		586E724412A5099B0CAF9347 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton-BDBorderedButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5E120E0FE40DCB942004B3A3 /* Debug */,
-				A33CD233CAE1779BE029BB4E /* Release */,
+				469B63DA2BE73C51D38E10AB /* Debug */,
+				BD8D528F7A85A0BA05C394BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7B551A235EF3698DB13B6129 /* Build configuration list for PBXNativeTarget "Pods-Tests" */ = {
+		9BACC6D47637732B73C4A58A /* Build configuration list for PBXNativeTarget "Pods-Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77E4F1A772B423552D810ADC /* Debug */,
-				723C63E92815394B92DA6CF0 /* Release */,
+				2C609F8AF244979982DAA49D /* Debug */,
+				C3A6F2AD31494DE3F02363AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B68997C6E70B9BF037C4E16E /* Build configuration list for PBXNativeTarget "Pods-BDBorderedButton-BDBorderedButton-BDBorderedButton" */ = {
+		FBB3C528A0D503F38EBA65D8 /* Build configuration list for PBXNativeTarget "Pods-Tests-BDBorderedButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A1F7D6317AF8B51ADED849FE /* Debug */,
-				2F609741BDE4FBEC898DF26F /* Release */,
+				01B2A28CC87F709953464819 /* Debug */,
+				47AAC427085026D6468AF802 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3BA2BBC8FEDDB03876B7CC2B /* Project object */;
+	rootObject = 8E427D3D7B911D9594FF1D68 /* Project object */;
 }

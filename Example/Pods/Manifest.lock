@@ -1,5 +1,5 @@
 PODS:
-  - BDBorderedButton (0.1.0)
+  - BDBorderedButton (1.0.0)
 
 DEPENDENCIES:
   - BDBorderedButton (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  BDBorderedButton: de99136006a0e93d271260f9277572d061647ced
+  BDBorderedButton: cdf11a71ccf62d35bef54289ae8684655f3cf4b8
 
 COCOAPODS: 0.36.0
