@@ -11,7 +11,7 @@ Flat design decrees that buttons should need no borders …until they do. BDBord
 
 แฟลทดีไซน์บอกว่าปุ่มไม่ควรจะมีขอบ แต่ในบางกรณี มีกรอบก็จะดีกว่ามาก BDBorderedButton เป็นคลาสลูกของ UIButton ที่วาดกรอบ ด้วยสีเดียวกับ tintColor ที่ตั้งไว้
 
-[![Screenshot](https://github.com/norsez/BDBorderedButton/blob/master/screenshot.jpg)]
+[![Screenshot](https://github.com/norsez/BDBorderedButton/blob/master/screenshot.png)]
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

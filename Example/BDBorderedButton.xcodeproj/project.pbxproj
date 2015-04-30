@@ -13,8 +13,6 @@
 		6003F598195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F596195388D20070C39A /* InfoPlist.strings */; };
 		6003F59A195388D20070C39A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F599195388D20070C39A /* main.m */; };
 		6003F59E195388D20070C39A /* BDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F59D195388D20070C39A /* BDAppDelegate.m */; };
-		6003F5A1195388D20070C39A /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6003F59F195388D20070C39A /* Main_iPhone.storyboard */; };
-		6003F5A7195388D20070C39A /* BDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5A6195388D20070C39A /* BDViewController.m */; };
 		6003F5A9195388D20070C39A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5A8195388D20070C39A /* Images.xcassets */; };
 		6003F5B0195388D20070C39A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F5AF195388D20070C39A /* XCTest.framework */; };
 		6003F5B1195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
@@ -23,7 +21,9 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		693C0AC17F4E608373ADDBC7 /* libPods-BDBorderedButton.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 31E513C687487EE41B5048BC /* libPods-BDBorderedButton.a */; };
 		98A56A556105F5E009867E59 /* libPods-Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 078E96CB26056FB726AFF903 /* libPods-Tests.a */; };
-		F31692B21AF0E24F004684F8 /* screenshot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F31692B11AF0E24F004684F8 /* screenshot.jpg */; };
+		F31692B81AF1CE0B004684F8 /* BDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F31692B71AF1CE0B004684F8 /* BDViewController.m */; };
+		F31692BA1AF1CE33004684F8 /* BDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F31692B91AF1CE33004684F8 /* BDViewController.xib */; };
+		F31692BC1AF1D385004684F8 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = F31692BB1AF1D385004684F8 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,9 +54,6 @@
 		6003F59B195388D20070C39A /* BDBorderedButton-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BDBorderedButton-Prefix.pch"; sourceTree = "<group>"; };
 		6003F59C195388D20070C39A /* BDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BDAppDelegate.h; sourceTree = "<group>"; };
 		6003F59D195388D20070C39A /* BDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BDAppDelegate.m; sourceTree = "<group>"; };
-		6003F5A0195388D20070C39A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
-		6003F5A5195388D20070C39A /* BDViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BDViewController.h; sourceTree = "<group>"; };
-		6003F5A6195388D20070C39A /* BDViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BDViewController.m; sourceTree = "<group>"; };
 		6003F5A8195388D20070C39A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6003F5AE195388D20070C39A /* Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F5AF195388D20070C39A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -66,7 +63,10 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		BE75223ABDD8218F47D6A643 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		EE0DEAC443AEB9F4757B2E5A /* Pods-Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tests/Pods-Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F31692B11AF0E24F004684F8 /* screenshot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = screenshot.jpg; path = ../screenshot.jpg; sourceTree = "<group>"; };
+		F31692B61AF1CE0B004684F8 /* BDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BDViewController.h; sourceTree = "<group>"; };
+		F31692B71AF1CE0B004684F8 /* BDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BDViewController.m; sourceTree = "<group>"; };
+		F31692B91AF1CE33004684F8 /* BDViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BDViewController.xib; sourceTree = "<group>"; };
+		F31692BB1AF1D385004684F8 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot.png; path = ../../../../../Desktop/screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,11 +134,11 @@
 			children = (
 				6003F59C195388D20070C39A /* BDAppDelegate.h */,
 				6003F59D195388D20070C39A /* BDAppDelegate.m */,
-				6003F59F195388D20070C39A /* Main_iPhone.storyboard */,
-				6003F5A5195388D20070C39A /* BDViewController.h */,
-				6003F5A6195388D20070C39A /* BDViewController.m */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
+				F31692B61AF1CE0B004684F8 /* BDViewController.h */,
+				F31692B71AF1CE0B004684F8 /* BDViewController.m */,
+				F31692B91AF1CE33004684F8 /* BDViewController.xib */,
 			);
 			path = BDBorderedButton;
 			sourceTree = "<group>";
@@ -176,7 +176,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				F31692B11AF0E24F004684F8 /* screenshot.jpg */,
+				F31692BB1AF1D385004684F8 /* screenshot.png */,
 				3C46FBE21E9CD022C120C61F /* BDBorderedButton.podspec */,
 				BE75223ABDD8218F47D6A643 /* README.md */,
 				59FB1C520A432A149123DB5E /* LICENSE */,
@@ -277,9 +277,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
-				6003F5A1195388D20070C39A /* Main_iPhone.storyboard in Resources */,
+				F31692BC1AF1D385004684F8 /* screenshot.png in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
-				F31692B21AF0E24F004684F8 /* screenshot.jpg in Resources */,
+				F31692BA1AF1CE33004684F8 /* BDViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,8 +361,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F31692B81AF1CE0B004684F8 /* BDViewController.m in Sources */,
 				6003F59E195388D20070C39A /* BDAppDelegate.m in Sources */,
-				6003F5A7195388D20070C39A /* BDViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -392,14 +392,6 @@
 				6003F597195388D20070C39A /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		6003F59F195388D20070C39A /* Main_iPhone.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				6003F5A0195388D20070C39A /* Base */,
-			);
-			name = Main_iPhone.storyboard;
 			sourceTree = "<group>";
 		};
 		6003F5B8195388D20070C39A /* InfoPlist.strings */ = {
