@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                       BDBorderedButton provides borders to iOS flat button.
                         DESC
   s.homepage         = "https://github.com/norsez/BDBorderedButton"
-  s.screenshots      = "github.com/norsez/BDBorderedButton/blob/master/screenshot.png"
+#  s.screenshots      = "github.com/norsez/BDBorderedButton/blob/master/screenshot.png"
   s.license          = 'MIT'
   s.author           = { "Norsez Orankijanan" => "norsez@gmail.com" }
   s.source           = { :git => "https://github.com/norsez/BDBorderedButton.git", :tag => s.version.to_s}

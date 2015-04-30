@@ -23,7 +23,6 @@
 		98A56A556105F5E009867E59 /* libPods-Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 078E96CB26056FB726AFF903 /* libPods-Tests.a */; };
 		F31692B81AF1CE0B004684F8 /* BDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F31692B71AF1CE0B004684F8 /* BDViewController.m */; };
 		F31692BA1AF1CE33004684F8 /* BDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F31692B91AF1CE33004684F8 /* BDViewController.xib */; };
-		F31692BC1AF1D385004684F8 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = F31692BB1AF1D385004684F8 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,7 +65,7 @@
 		F31692B61AF1CE0B004684F8 /* BDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BDViewController.h; sourceTree = "<group>"; };
 		F31692B71AF1CE0B004684F8 /* BDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BDViewController.m; sourceTree = "<group>"; };
 		F31692B91AF1CE33004684F8 /* BDViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BDViewController.xib; sourceTree = "<group>"; };
-		F31692BB1AF1D385004684F8 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot.png; path = ../../../../../Desktop/screenshot.png; sourceTree = "<group>"; };
+		F31692BD1AF1D6AA004684F8 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = screenshot.png; path = ../screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,7 +175,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				F31692BB1AF1D385004684F8 /* screenshot.png */,
+				F31692BD1AF1D6AA004684F8 /* screenshot.png */,
 				3C46FBE21E9CD022C120C61F /* BDBorderedButton.podspec */,
 				BE75223ABDD8218F47D6A643 /* README.md */,
 				59FB1C520A432A149123DB5E /* LICENSE */,
@@ -277,7 +276,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
-				F31692BC1AF1D385004684F8 /* screenshot.png in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 				F31692BA1AF1CE33004684F8 /* BDViewController.xib in Resources */,
 			);
